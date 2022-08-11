@@ -595,6 +595,7 @@ grafana.ini:
     mode: console
   grafana_net:
     url: https://grafana.net
+  disable_initial_admin_creation: true
 ## grafana Authentication can be enabled with the following values on grafana.ini
  # server:
       # The full public facing url you use in browser, used for redirects and emails
